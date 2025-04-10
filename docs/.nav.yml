@@ -1,0 +1,6 @@
+nav:
+  - Home:
+      - index.md
+  - Rust: rust
+  - Python: python
+  - "*"

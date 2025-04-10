@@ -1,4 +1,6 @@
-# Rust Extensions for Python
+# rspx
+
+- rust extensions for python
 
 ## Installation
 
@@ -27,22 +29,4 @@ def main():
 if __name__ == "__main__":
     main()
 
-```
-
-## Development
-
-### build
-
-```ruby
-# or 
-task build
-
-# task build:pyo3
-```
-
-### publish
-
-```ruby
-# publish to pypi
-task up
 ```
